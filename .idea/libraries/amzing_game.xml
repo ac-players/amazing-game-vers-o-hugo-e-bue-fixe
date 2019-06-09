@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="amzing-game">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/amzing-game/simplegraphics.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/amzing-game/lanterna-2.1.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
